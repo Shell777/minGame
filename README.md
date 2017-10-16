@@ -28,4 +28,4 @@ id | 微信 |主要职能
 ![image](Resource/miniGame示意图.png)
 ### 版本内容：  
 [v1.0.0功能说明文档](Document/v1.0.0功能说明文档.md)  
-[v1.0.0框架设计文档](Document/v1.0.0功能说明文档.md)
+[v1.0.0框架设计文档](Document/v1.0.0框架设计文档.md)
