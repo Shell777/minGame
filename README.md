@@ -7,10 +7,10 @@
 华工_夏寅皓 | shell_777 | PM
 华工_刘鑫昊|wxid_0453084530912|策划
 中大_袁子豪|Yzihao-adan|策划
+华工_何嘉权|wxid_w6eigiiklehs21策划
 中大_陈浩强|chq1240|开发
 中大_谭骏朗|tanjunlang|开发
 中大_庄博伟|wxid_b7c7j0avvu8111|开发
-华工_何嘉权|wxid_w6eigiiklehs21|开发
 华工_邓维尔| dwe2198909 | 美工
 ---
 ### 想法idea
